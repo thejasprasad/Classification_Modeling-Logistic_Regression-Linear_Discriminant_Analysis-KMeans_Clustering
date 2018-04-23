@@ -1,0 +1,2 @@
+# -Classification-Modeling-Logistic-Regression-Linear-Discriminant-Analysis-KMeans-Clustering
+This is a classification project using Kobe Bryant’s game stats data created over 20 years, models were created to predict whether or not he is expected to make shots given various conditions. With 20 years of basketball stats, Bryant has data on everything ranging from the location on the court that he took the shot to the average noise in the arena at the time of the game. 
